@@ -1,0 +1,16 @@
+[package]
+name = "rsa"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+mod_exp = "1.0.1"
+modinverse = "0.1.1"
+modulo = "0.1.2"
+num = "0.4.0"
+num-bigint = "0.4.3"
+primes = "0.3.0"
+rand = "0.8.5"
+reikna = "0.12.3"
